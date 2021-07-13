@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyanshuarora595
+- 👋 Hi, I’m Priyanshu Arora
 - 👀 I’m interested in coding , learning new technologies , reading about space exploration and time.
 - 🌱 I’m currently learning web development , data manipulation and GUI designing.
 - 💞️ I’m looking to collaborate on different projects that give me opportunity to learn more and more.
