@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development , data manipulation and GUI designing.
 - 💞️ I’m looking to collaborate on different projects that give me opportunity to learn more and more.
 - 📫 How to reach me -
--       email - priyanshuarora595@gmail.com ,
+-       email - priyanshuarora595@gmail.com
         Instagram - https://www.instagram.com/priyanshu_arora__/
         linked IN - https://www.linkedin.com/in/priyanshu-arora-253315202/
 
